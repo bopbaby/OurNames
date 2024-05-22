@@ -1,0 +1,22 @@
+
+.names {
+   display:flex;
+   align-items: center;
+   justify-content: center;
+   margin-top: 20% ;
+   margin-left: 20% ;
+   padding: 50px;
+   width: 50%;
+   border:2px solid black;
+
+}
+
+.name1{
+  border:1px solid black;
+  padding: 10px;
+  border-radius:5px;
+  color: white;
+  background-color:purple;
+  flex-wrap: wrap;
+}
+
